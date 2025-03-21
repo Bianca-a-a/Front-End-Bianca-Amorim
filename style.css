@@ -1,0 +1,12 @@
+body{
+    background-image: url(img/fundo.jpg);
+    background-repeat: no-repeat;
+    background-size: 1370px;
+}
+h1{
+    color: aliceblue;
+}
+p{
+    color: aliceblue;
+    font-size: 25px;
+}
