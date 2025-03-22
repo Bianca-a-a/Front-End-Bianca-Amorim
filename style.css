@@ -1,12 +1,37 @@
 body{
-    background-image: url(img/fundo.jpg);
-    background-repeat: no-repeat;
+    background-color: black;
     background-size: 1370px;
 }
 h1{
+    block-size: 50px;
+}
+
+#header {
+    width: 100%;
+}
+
+h1{
     color: aliceblue;
+    text-align: center;
 }
 p{
-    color: aliceblue;
-    font-size: 25px;
+    color: #f0f8ff;
+    font-size: 20px;
+}
+.principal{
+    text-align: center;
+}
+
+.ator{
+    display: inline-block;
+    text-align: center;
+    vertical-align: top;
+    width: 40%;
+}
+
+.kant{
+    border-image-width: auto;
+    border-top: 150%;
+    width: 550px;
+    margin-left: 360px;
 }
